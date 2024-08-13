@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Web Development Bootcamp",
+        "slug": "web-development-bootcamp",
+        "description": "Master the skills to become a full-stack web developer with our comprehensive bootcamp.",
+        "price": 199.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": true,
+        "image": "/courses/web-development.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Data Science with Python",
+        "slug": "data-science-with-python",
+        "description": "Dive into data science with Python, covering data analysis, visualization, and machine learning.",
+        "price": 229.99,
+        "instructor": "Bob Smith",
+        "isFeatured": false,
+        "image": "/courses/data-science.jpg"
+      },
+      {
+        "id": 3,
+        "title": "DSA with Java",
+        "slug": "dsa-with-java",
+        "description": "Learn Data Structures and Algorithms using Java, with a focus on coding interviews.",
+        "price": 249.99,
+        "instructor": "Charlie Davis",
+        "isFeatured": true,
+        "image": "/courses/dsa-java.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Machine Learning A-Z",
+        "slug": "machine-learning-a-z",
+        "description": "An in-depth course on machine learning, covering theory and practical implementation.",
+        "price": 269.99,
+        "instructor": "Diana Lee",
+        "isFeatured": false,
+        "image": "/courses/machine-learning.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Advanced JavaScript",
+        "slug": "advanced-javascript",
+        "description": "Enhance your JavaScript skills with this advanced course, covering ES6+ features, async programming, and more.",
+        "price": 179.99,
+        "instructor": "Evan Miller",
+        "isFeatured": false,
+        "image": "/courses/advanced-js.jpg"
+      },
+      {
+        "id": 6,
+        "title": "React and Redux Masterclass",
+        "slug": "react-redux-masterclass",
+        "description": "Build dynamic web applications with React and manage state efficiently using Redux.",
+        "price": 189.99,
+        "instructor": "Fiona Adams",
+        "isFeatured": true,
+        "image": "/courses/react-redux.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Introduction to Cloud Computing",
+        "slug": "introduction-to-cloud-computing",
+        "description": "Get started with cloud computing, learning about AWS, Azure, and Google Cloud platforms.",
+        "price": 209.99,
+        "instructor": "George Wilson",
+        "isFeatured": false,
+        "image": "/courses/cloud-computing.jpg"
+      },
+      {
+        "id": 8,
+        "title": "DevOps Fundamentals",
+        "slug": "devops-fundamentals",
+        "description": "Learn the essentials of DevOps, covering CI/CD, containerization, and infrastructure as code.",
+        "price": 199.99,
+        "instructor": "Hannah Brown",
+        "isFeatured": true,
+        "image": "/courses/devops.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Cybersecurity Essentials",
+        "slug": "cybersecurity-essentials",
+        "description": "Protect yourself and your organization with a foundational course in cybersecurity.",
+        "price": 239.99,
+        "instructor": "Ian Clark",
+        "isFeatured": false,
+        "image": "/courses/cybersecurity.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Mobile App Development with Flutter",
+        "slug": "mobile-app-development-flutter",
+        "description": "Create stunning mobile apps with Flutter, covering both Android and iOS development.",
+        "price": 219.99,
+        "instructor": "Jenny Martinez",
+        "isFeatured": true,
+        "image": "/courses/flutter.jpg"
+      }
+    ]
+  }
+  
